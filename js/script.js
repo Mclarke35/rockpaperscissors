@@ -8,4 +8,9 @@
 
 
 // DOCUMENT READY FUNCTION BELOW
+$("button").click(function() {
+    var inputmessage=$("#input").val(); 
+    alert (inputmessage)
 
+    
+});
